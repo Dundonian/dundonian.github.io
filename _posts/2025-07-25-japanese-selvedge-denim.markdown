@@ -26,7 +26,7 @@ Japanese artisans, driven by a deep appreciation for quality and tradition, saw 
 
 You can't discuss Japanese denim without mentioning the mills that create it. While many exist, the **Kaihara mill**, located in Hiroshima Prefecture, is a titan of the industry. Founded in 1893 as a producer of indigo-dyed kasuri fabrics, Kaihara transitioned to denim in the 1970s and has since become synonymous with excellence.
 
-What makes [Kaihara](https://www.kaiharadenim.com/en/) denim so special?
+What makes [Kaihara](https://www.japandenim.jp/en/supplier/kaihara-corporation/) denim so special?
 
 1.  **Rope Dyeing:** Kaihara is a master of rope dyeing. This meticulous process involves twisting cotton yarns into a "rope" and dipping them repeatedly into vats of pure indigo dye. This method ensures the dye doesn't fully penetrate the yarn's core, leaving it white. As the denim wears, the indigo chips away, revealing the white core and creating the beautiful, high-contrast fades that denimheads cherish.
 
