@@ -21,11 +21,11 @@
 title: Jason Gowans
 email: jasongowans@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site of Jason Gowans.
+  Personal site of Jason Gowans, Seattle, WA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  dundonian
+linkedin_username: jasongowans
 
 # Build settings
 theme: minima
