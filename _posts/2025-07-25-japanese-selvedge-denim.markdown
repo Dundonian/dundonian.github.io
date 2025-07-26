@@ -39,3 +39,5 @@ What makes [Kaihara](https://www.japandenim.jp/en/supplier/kaihara-corporation/)
 Choosing a pair of jeans made from Japanese selvedge denim is an investment. The fabric is denser, more textured, and built to last. It tells a story—not just of the wearer's life through fades and creases, but of a rich history of craftsmanship passed down through generations.
 
 When you cuff your jeans and see that clean selvedge line, you're not just showing off a stylistic detail. You're displaying a piece of industrial history, a testament to the artisans in places like Okayama and Hiroshima who turned a humble workwear fabric into a form of art.
+
+![Google Gemini generated image of selvedge denim](/assets/img/gemini-selvedge.png)
