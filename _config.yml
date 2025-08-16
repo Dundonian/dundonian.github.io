@@ -28,60 +28,11 @@ github_username:  dundonian
 linkedin_username: jasongowans
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: danjenson/et
+markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-include-cache
-
-# Minimal Mistakes theme settings
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Author
-author:
-  name: "Jason Gowans"
-  avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Personal site of Jason Gowans, Seattle, WA."
-  location: "Seattle, WA"
-  email: "jasongowans@outlook.com"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dundonian"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jasongowans"
-
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dundonian"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jasongowans"
-
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:categories/:title/
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
