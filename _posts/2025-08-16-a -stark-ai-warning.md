@@ -7,6 +7,10 @@ categories: jekyll update
 
 *Preface: The post below was written by Google Gemini. This is just a personal test site I use for learning about AI and new developer workflows. The content doesn't necessarily reflect my views.*
 
+PROMPT: *write a blog post for a jekyll site in markdown that summarizes the Situational Awareness series of posts to a non-technical business leader. When you can, try to explain what this likely means for the workforce of the future in a typical apparel retail business.*
+
+Link to Situational Awareness essay: [https://situational-awareness.ai/](https://situational-awareness.ai/)
+
 As a leader in the fast-paced apparel retail industry, you're constantly hearing about AI. Most of the time, it's framed in terms of personalized marketing or supply chain optimization. But a recent, widely circulated series of essays titled *"Situational Awareness"* by Leopold Aschenbrenner, a former researcher at OpenAI, presents a much more radical and urgent picture.
 
 This isn't the usual tech-optimist talk. It's a stark warning from inside the world's leading AI labs. Aschenbrenner's core argument is that we—as a society and as business leaders—lack true "situational awareness" of what's about to hit us. He argues that we are on the cusp of developing Artificial General Intelligence (AGI)—AI that can think and reason like a human—by as early as 2027.
