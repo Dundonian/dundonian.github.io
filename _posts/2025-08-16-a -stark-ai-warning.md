@@ -62,9 +62,3 @@ The imperative is to start thinking now:
 * **How do we begin to upskill our workforce?** The future is less about learning a new software and more about developing skills in critical thinking, creative direction, and AI collaboration.
 
 Ignoring this shift is not an option. Gaining "situational awareness" is the first step toward navigating the most profound business transformation of our lifetimes.
-
-```
-
------
-
-For a deeper dive into the ideas discussed, this video provides a summary of Leopold Aschenbrenner's "Situational Awareness" essay.
