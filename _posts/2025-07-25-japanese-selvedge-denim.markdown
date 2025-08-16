@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "From Okayama with Love: The Unrivaled Craft of Japanese Selvedge Denim"
 date: 2025-07-25 18:18:00 -0700
 categories: denim fashion craftsmanship japan
